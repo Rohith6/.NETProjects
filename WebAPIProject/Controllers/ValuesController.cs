@@ -19,7 +19,7 @@ namespace WebAPIProject.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "value";
+            return "CustomValue";
         }
 
         // POST api/values
